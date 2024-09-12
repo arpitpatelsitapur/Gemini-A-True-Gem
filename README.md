@@ -30,7 +30,9 @@ This repository aims to document my progress in learning and experimenting with 
 ## 💻 List of Projects
 
 1. **Simple Chatbot using Gemini Pro API**
-   ![Simple Chatbot using Gemini Pro API](app1/1_app.png) 
+  <div align="center">
+     <img src="app1/1_app.png" alt="Simple Chatbot using Gemini Pro API" width="450"/>
+  </div>
    - Build a basic chatbot leveraging the Gemini Pro API for natural language understanding and response generation.
    - [Project Code](app1/1_app.py)
 
