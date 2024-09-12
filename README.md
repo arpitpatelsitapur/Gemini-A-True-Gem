@@ -35,7 +35,18 @@ This repository aims to document my progress in learning and experimenting with 
   </div>
    - Build a basic chatbot leveraging the Gemini Pro API for natural language understanding and response generation.
    - [Project Code](app1/1_app.py)
+   - Folder: `app1/`
 
+2. **Gemini Pro Content Creator using Langchain Framework**
+  <div align="center">
+     <img src="app2/2_app.png" alt="Simple Chatbot using Gemini Pro API" width="450"/>
+  </div>
+
+   - Implemented Gemini-pro API Chatbot using the Langchain framework. 
+   - Learned how to use models from Ollama and monitored it through Langsmith.
+   - [Project Code](app2/2_app.py)
+   - Folder: `app2/`
+   - 
 3. **Context-Based Approach for Question Answering**  
    - Implement a context-based model that can answer complex queries using Gemini Pro’s advanced NLP capabilities.
 
