@@ -33,30 +33,30 @@ This repository aims to document my progress in learning and experimenting with 
   <div align="center">
      <img src="app1/1_app.png" alt="Simple Chatbot using Gemini Pro API" width="450"/>
   </div>
-   - Build a basic chatbot leveraging the Gemini Pro API for natural language understanding and response generation.
-   - [Project Code](app1/1_app.py)
-   - Folder: `app1/`
+- Build a basic chatbot leveraging the Gemini Pro API for natural language understanding and response generation.
+- [Project Code](app1/1_app.py)
+- Folder: `app1/`
 
 2. **Gemini Pro Content Creator using Langchain Framework**
   <div align="center">
      <img src="app2/2_app.png" alt="Simple Chatbot using Gemini Pro API" width="450"/>
   </div>
 
-   - Implemented Gemini-pro API Chatbot using the Langchain framework. 
-   - Learned how to monitor it through Langsmith.
-   - [Project Code](app2/2_app.py)
-   - Folder: `app2/`
+- Implemented Gemini-pro API Chatbot using the Langchain framework. 
+- Learned how to monitor it through Langsmith.
+- [Project Code](app2/2_app.py)
+- Folder: `app2/`
      
 3. **Context-Based Approach for Question Answering**  
    <div align="center">
      <img src="app3/3_app.png" alt="Gemini Chatbot Context Based" width="450"/>
   </div>
-   - Implement a context-based model that can answer complex queries using Gemini Pro’s advanced NLP capabilities.
-   - [Project Code](app3/3_app.py)
-   - Folder: `app3/`
+- Implement a context-based model that can answer complex queries using Gemini Pro’s advanced NLP capabilities.
+- [Project Code](app3/3_app.py)
+- Folder: `app3/`
 
 5. **Fine-Tuning Gemini Pro for Custom Applications**  
-   - Fine-tune the Gemini Pro model on specific datasets to optimize performance for custom use cases like student support chatbots.
+- Fine-tune the Gemini Pro model on specific datasets to optimize performance for custom use cases like student support chatbots.
 
 6. **Sentiment Analysis with Gemini Pro**  
    - Analyze and classify sentiments from text inputs using the pre-trained Gemini Pro model.
