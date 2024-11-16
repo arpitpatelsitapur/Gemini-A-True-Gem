@@ -29,7 +29,7 @@ This repository aims to document my progress in learning and experimenting with 
 
 ## 💻 List of Projects
 
-1. **Simple Chatbot using Gemini Pro API**
+### **Simple Chatbot using Gemini Pro API**
   <div align="center">
      <img src="app1/1_app.png" alt="Simple Chatbot using Gemini Pro API" width="450"/>
   </div>
@@ -37,7 +37,7 @@ This repository aims to document my progress in learning and experimenting with 
 - [Project Code](app1/1_app.py)
 - Folder: `app1/`
 
-2. **Gemini Pro Content Creator using Langchain Framework**
+### **Gemini Pro Content Creator using Langchain Framework**
   <div align="center">
      <img src="app2/2_app.png" alt="Simple Chatbot using Gemini Pro API" width="450"/>
   </div>
@@ -47,7 +47,7 @@ This repository aims to document my progress in learning and experimenting with 
 - [Project Code](app2/2_app.py)
 - Folder: `app2/`
      
-3. **Context-Based Approach for Question Answering**  
+### **Context-Based Approach for Question Answering**  
    <div align="center">
      <img src="app3/3_app.png" alt="Gemini Chatbot Context Based" width="450"/>
   </div>
@@ -56,7 +56,7 @@ This repository aims to document my progress in learning and experimenting with 
 - [Project Code](app3/3_app.py)
 - Folder: `app3/`
 
-4. **Multi-Purpose Streamlit Web App**
+### **Multi-Purpose Streamlit Web App**
 - Implement an app having 4 below targets-
   * Chatbot
   * Image Captioning
@@ -64,7 +64,7 @@ This repository aims to document my progress in learning and experimenting with 
   * Ask Any Query
    <div align="center">
      <img src="multi purpose streamlit app/chatbot.png" alt="(i)Chatbot with session History and memory" width="450"/>
-  </div>
+  </div><br>
   
   <div align="center">
      <img src="multi purpose streamlit app/snap_narrator.png" alt="(ii)Caption generator" width="450"/>
@@ -82,13 +82,13 @@ This repository aims to document my progress in learning and experimenting with 
 - [Project Code](multi purpose streamlit app/main.py)
 - Folder: `multi purpose streamlit app/`
 
-5. **Fine-Tuning Gemini Pro for Custom Applications**  
+### **Fine-Tuning Gemini Pro for Custom Applications**  
 - Fine-tune the Gemini Pro model on specific datasets to optimize performance for custom use cases like student support chatbots.
 
-6. **Sentiment Analysis with Gemini Pro**  
+### **Sentiment Analysis with Gemini Pro**  
    - Analyze and classify sentiments from text inputs using the pre-trained Gemini Pro model.
 
-7. **Content Generation Tool**  
+### **Content Generation Tool**  
    - Develop a content generation tool using Gemini Pro’s API for creating articles, summaries, or creative writing pieces.
 
 *More as we go.....*
