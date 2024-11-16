@@ -51,6 +51,7 @@ This repository aims to document my progress in learning and experimenting with 
    <div align="center">
      <img src="app3/3_app.png" alt="Gemini Chatbot Context Based" width="450"/>
   </div>
+  
 - Implement a context-based model that can answer complex queries using Gemini Pro’s advanced NLP capabilities.
 - [Project Code](app3/3_app.py)
 - Folder: `app3/`
@@ -64,15 +65,19 @@ This repository aims to document my progress in learning and experimenting with 
    <div align="center">
      <img src="multi purpose streamlit app/chatbot.png" alt="(i)Chatbot with session History and memory" width="450"/>
   </div>
+  
   <div align="center">
      <img src="multi purpose streamlit app/snap_narrator.png" alt="(ii)Caption generator" width="450"/>
   </div>
+  
   <div align="center">
      <img src="multi purpose streamlit app/text_embed.png" alt="(iii)Sample Embeding Generator" width="450"/>
   </div>
+  
   <div align="center">
      <img src="multi purpose streamlit app/ask_query.png" alt="(iv)Query Response" width="450"/>
   </div>
+  
 - took help of yt video by Siddhardhan.
 - [Project Code](multi purpose streamlit app/main.py)
 - Folder: `multi purpose streamlit app/`
