@@ -68,15 +68,15 @@ This repository aims to document my progress in learning and experimenting with 
   
   <div align="center">
      <img src="multi purpose streamlit app/snap_narrator.png" alt="(ii)Caption generator" width="450"/>
-  </div>
+  </div><br>
   
   <div align="center">
      <img src="multi purpose streamlit app/text_embed.png" alt="(iii)Sample Embeding Generator" width="450"/>
-  </div>
+  </div><br>
   
   <div align="center">
      <img src="multi purpose streamlit app/ask_query.png" alt="(iv)Query Response" width="450"/>
-  </div>
+  </div><br>
   
 - took help of yt video by Siddhardhan.
 - [Project Code](multi purpose streamlit app/main.py)
